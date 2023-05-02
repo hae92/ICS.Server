@@ -1,0 +1,8 @@
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\bin\Debug\ICS.Service.DBTest.exe.config
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\bin\Debug\ICS.Service.DBTest.exe
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\bin\Debug\ICS.Service.DBTest.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\obj\Debug\ICS.Service.DBTest.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\obj\Debug\ICS.Service.DBTest.csproj.SuggestedBindingRedirects.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\obj\Debug\ICS.Service.DBTest.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\obj\Debug\ICS.Service.DBTest.exe
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Service.DBTest\obj\Debug\ICS.Service.DBTest.pdb

@@ -1,0 +1,9 @@
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\bin\Debug\ICS.Data.JsonMessage.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\bin\Debug\ICS.Data.JsonMessage.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\bin\Debug\Newtonsoft.Json.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\bin\Debug\Newtonsoft.Json.xml
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\obj\Debug\ICS.Data.JsonMessage.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\obj\Debug\ICS.Data.JsonMessage.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\obj\Debug\ICS.Data.JsonMessage.csproj.CopyComplete
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\obj\Debug\ICS.Data.JsonMessage.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Data.JsonMessage\obj\Debug\ICS.Data.JsonMessage.pdb

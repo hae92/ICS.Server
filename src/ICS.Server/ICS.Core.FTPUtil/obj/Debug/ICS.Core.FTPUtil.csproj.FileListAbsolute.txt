@@ -1,0 +1,6 @@
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\bin\Debug\ICS.Core.FTPUtil.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\bin\Debug\ICS.Core.FTPUtil.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\obj\Debug\ICS.Core.FTPUtil.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\obj\Debug\ICS.Core.FTPUtil.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\obj\Debug\ICS.Core.FTPUtil.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.FTPUtil\obj\Debug\ICS.Core.FTPUtil.pdb

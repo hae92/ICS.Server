@@ -1,0 +1,15 @@
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\bin\Debug\net7.0\ICS.Server.exe
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\bin\Debug\net7.0\ICS.Server.deps.json
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\bin\Debug\net7.0\ICS.Server.runtimeconfig.json
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\bin\Debug\net7.0\ICS.Server.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\bin\Debug\net7.0\ICS.Server.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.AssemblyInfoInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.AssemblyInfo.cs
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\refint\ICS.Server.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ICS.Server.genruntimeconfig.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Server\obj\Debug\net7.0\ref\ICS.Server.dll

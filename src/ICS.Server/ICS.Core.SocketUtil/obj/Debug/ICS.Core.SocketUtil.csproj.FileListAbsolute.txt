@@ -1,0 +1,6 @@
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\bin\Debug\ICS.Core.SocketUtil.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\bin\Debug\ICS.Core.SocketUtil.pdb
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\obj\Debug\ICS.Core.SocketUtil.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\obj\Debug\ICS.Core.SocketUtil.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\obj\Debug\ICS.Core.SocketUtil.dll
+D:\Project\RabbitMQ_Test\ICS.Server\ICS.Core.SocketUtil\obj\Debug\ICS.Core.SocketUtil.pdb
